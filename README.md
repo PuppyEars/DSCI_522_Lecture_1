@@ -6,3 +6,5 @@ here's a command to help you look at the git histroy:
 `git log --oneline --graph --decorate --all`
 
 - `switch -c <name>`: create and move HEAD to the branch <name>
+
+- `fetch --prune`: synch your work with the remote, and removes branches that were delted from the remote
